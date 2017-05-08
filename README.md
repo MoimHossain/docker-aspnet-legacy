@@ -18,4 +18,6 @@ Let's assume the web application that we are trying package is named as `LegacyA
 
 By following the steps above, any ASP.net 4.5, 4.6.2 application can be composed as a docker container. 
 
+Thanks for reading this far, want to [read more](http://moimtechview.blogspot.nl/2017/05/aspnet-45-applications-on-docker.html)?
+
 
