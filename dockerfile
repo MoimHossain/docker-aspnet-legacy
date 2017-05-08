@@ -23,3 +23,6 @@ RUN LegacyApp.deploy.cmd, /Y
 RUN powershell.exe -executionpolicy bypass c:\webapplication\fixAcls.ps1
 # Installing again
 RUN LegacyApp.deploy.cmd, /Y
+
+# Expose port 80
+EXPOSE 80
